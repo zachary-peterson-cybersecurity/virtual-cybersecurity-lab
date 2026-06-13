@@ -1,7 +1,7 @@
 # Virtual Cybersecurity Lab Setup
 
 ## Status
-Planned
+In Progress
 
 ## Project Overview
 This project will document the setup of a virtual cybersecurity lab environment used for hands-on security practice.
@@ -20,7 +20,7 @@ The lab will use virtual machines to create a safe and controlled environment fo
 ## Tools Planned
 - VMware Workstation
 - Kali Linux
-- Windows virtual machine
+- Windows host system
 - Metasploitable or other legal vulnerable targets
 - Nmap
 - Nessus Essentials
@@ -33,5 +33,17 @@ The lab will use virtual machines to create a safe and controlled environment fo
 - Tool installation notes
 - Lessons learned
 
+## Lab Build Checklist
+
+- [x] Use Windows host system for lab management
+- [ ] Install VMware Workstation
+- [ ] Create Kali Linux virtual machine
+- [ ] Add vulnerable target machine
+- [ ] Configure virtual networking
+- [ ] Verify connectivity between lab machines
+- [ ] Take setup screenshots
+- [ ] Create lab network diagram
+- [ ] Document lessons learned
+
 ## Notes
-This project is currently planned and will be updated as the lab environment is built.
+This project is currently in progress and will be updated as the virtual lab environment is built and documented.
