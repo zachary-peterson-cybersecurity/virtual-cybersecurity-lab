@@ -40,7 +40,7 @@ The lab will use virtual machines to create a safe and controlled environment fo
 ## Lab Build Checklist
 
 - [x] Use Windows host system for lab management
-- [ ] Install VMware Workstation
+- [x] Install VMware Workstation
 - [ ] Create Kali Linux virtual machine
 - [ ] Add vulnerable target machine
 - [ ] Configure virtual networking
