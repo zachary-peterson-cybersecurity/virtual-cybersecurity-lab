@@ -8,6 +8,10 @@ This project will document the setup of a virtual cybersecurity lab environment 
 
 The lab will use virtual machines to create a safe and controlled environment for practicing networking, scanning, vulnerability assessment, monitoring, and basic security testing.
 
+## Lab Network Diagram
+
+![Virtual cybersecurity lab network diagram](screenshots/lab-network-diagram.png)
+
 ## Project Goals
 - Set up a safe virtual lab environment
 - Configure virtual machines for cybersecurity practice
