@@ -49,5 +49,9 @@ The lab will use virtual machines to create a safe and controlled environment fo
 - [x] Create lab network diagram
 - [ ] Document lessons learned
 
+### VMware Workstation Installed
+
+![VMware Workstation Installed](screenshots/vmware-workstation-installed.png)
+
 ## Notes
 This project is currently in progress and will be updated as the virtual lab environment is built and documented.
