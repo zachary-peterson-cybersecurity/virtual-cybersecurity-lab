@@ -46,7 +46,7 @@ The lab will use virtual machines to create a safe and controlled environment fo
 - [ ] Configure virtual networking
 - [ ] Verify connectivity between lab machines
 - [ ] Take setup screenshots
-- [ ] Create lab network diagram
+- [x] Create lab network diagram
 - [ ] Document lessons learned
 
 ## Notes
