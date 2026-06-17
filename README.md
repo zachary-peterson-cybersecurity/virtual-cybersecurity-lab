@@ -44,7 +44,7 @@ The initial build focuses on creating the lab foundation with virtual machines, 
 - [x] Use Windows host system for lab management
 - [x] Create lab network diagram
 - [x] Install VMware Workstation
-- [ ] Create Kali Linux virtual machine
+- [x] Create Kali Linux virtual machine
 - [ ] Add vulnerable target machine
 - [ ] Configure virtual networking
 - [ ] Verify connectivity between lab machines
@@ -54,6 +54,10 @@ The initial build focuses on creating the lab foundation with virtual machines, 
 ### VMware Workstation Installed
 
 ![VMware Workstation Installed](screenshots/vmware-workstation-installed.png)
+
+## Kali Linux VM Running
+
+![Kali Linux VM Running](screenshots/kali-vm-running.png)
 
 ## Notes
 This project is currently in progress and will be updated as the virtual lab environment is built and documented.
