@@ -30,7 +30,7 @@ The network diagram shows the planned layout for the virtual cybersecurity lab, 
 - Kali Linux
 - Metasploitable 2
 
-##Future Tools
+## Future Tools
 
 - Nmap
 - Nessus Essentials
